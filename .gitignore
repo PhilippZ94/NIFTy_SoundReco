@@ -1,0 +1,7 @@
+# Data
+Data/*.mp4
+Data/*.zip
+Data/Cutshort/
+
+# Jupyter Notebook
+.ipynb_checkpoints
